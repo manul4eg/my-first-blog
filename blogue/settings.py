@@ -25,7 +25,7 @@ SECRET_KEY = '%(jl1k88nb$+a%86+f!e@^all4i-rxgd1(=xc7+x)9^%(6wi=i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['manul4eg.pythonanywhere.com']
 
 
 # Application definition
